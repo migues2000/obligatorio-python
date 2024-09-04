@@ -88,8 +88,6 @@ for ind, val in enumerate(CATEGORIES):
 - Python 3.x
 - Bibliotecas Python: `pandas`, `numpy`, `matplotlib`, `joblib`, `scikit-image`, `scikit-learn`
 
-Asegúrate de instalar las dependencias listadas en `requirements.txt`.
-
 ## Estructura del Proyecto
 
 El proyecto sigue la siguiente estructura de carpetas:
